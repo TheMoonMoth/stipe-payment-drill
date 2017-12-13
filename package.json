@@ -4,7 +4,6 @@
     "description": "Libraries drill 2",
     "main": "app.js",
     "scripts": {
-        "postinstall": "cd public && npm install",
         "start": "node app.js",
         "dev": "nodemon app.js"
     },
